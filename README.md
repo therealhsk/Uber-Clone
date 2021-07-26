@@ -1,10 +1,5 @@
 # Uber-Clone
 
-Sanity + React Native app example
-===
-
-This is an example [Sanity](https://www.sanity.io) backed [React Native](https://facebook.github.io/react-native/) app for the movies database dataset.
-
 ## Setup
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
