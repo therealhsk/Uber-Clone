@@ -1,7 +1,7 @@
 # OSX
 #
 .DS_Store
-
+.env
 # Xcode
 #
 build/
@@ -24,6 +24,9 @@ DerivedData
 # Android/IntelliJ
 #
 build/
+/android/app/src/main/res/
+!/android/app/src/main/res/AndroidManifest.xml
+!/android/app/src/main/assets/index.android.bundle
 .idea
 .gradle
 local.properties
@@ -34,7 +37,7 @@ local.properties
 node_modules/
 npm-debug.log
 yarn-error.log
-
+coverage/
 # BUCK
 buck-out/
 \.buckd/
